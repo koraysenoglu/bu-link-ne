@@ -96,7 +96,7 @@
     <title>Eda ♡ Koray</title>
   </head>
   <body>
-    <h1>Sayfanın Başlığı</h1>
-    <p>İçerik buraya gelecek</p>
+    <h1>Eda ♡ Koray</h1>
+    
   </body>
 </html>
